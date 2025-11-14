@@ -10,9 +10,8 @@
 
 <center>
 
-#### Startup: **Aureal**
-#### Product: **Moveo**
-### Team  Members:
+Fundamentos de Desarrollo Web para Jóvenes
+
 
 </center>
 
