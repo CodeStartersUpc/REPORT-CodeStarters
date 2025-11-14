@@ -4,13 +4,13 @@
     <strong>Ingeniería de Software 2025-20</strong><br>
     <strong>Aplicaciones Web - 7432 </strong><br>
     <strong>Profesor: Oscar Ivan Villafuentes Bazan </strong><br>
-    <strong>INFORME DE TRABAJO FINAL</strong><br>
+    <strong>
+Fundamentos de Desarrollo Web para Jóvenes</strong><br>
     <strong> CICLO 2025-20</strong><br>
 </p>
 
 <center>
 
-Fundamentos de Desarrollo Web para Jóvenes
 
 
 </center>
