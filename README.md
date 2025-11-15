@@ -29,7 +29,7 @@ Fundamentos de Desarrollo Web para Jóvenes</strong><br>
 
 ---
 
-### Lección 1: Tu Primera Aventura Web
+# Lección 1: Tu Primera Aventura Web
 
 ### Objetivos de la Lección:
 
@@ -117,3 +117,103 @@ CodePen permite:
 - Usar paneles divididos para HTML, CSS y vista previa.
 
 Sitio mencionado: [codepen.io](https://codepen.io/)
+
+---
+
+# Lección 2: Lección 2: Construyendo con Bloques HTML
+
+Bienvenido a la Lección 2 del curso Fundamentos de Desarrollo Web.
+En esta sesión aprenderás las etiquetas esenciales de HTML y construirás tu primera página web completa usando CodePen o cualquier editor.
+
+---
+
+## Objetivos de la lección:
+
+En esta lección los estudiantes aprenderán:
+
+- La estructura básica de un documento HTML.
+- Las etiquetas fundamentales para crear contenido.
+- A construir su primera página web completa.
+- A practicar directamente en CodePen.
+
+---
+
+## 1. Estructura Básica de una Página HTML
+
+```
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Mi Primera Página</title>
+</head>
+<body>
+  <!-- Aquí va todo nuestro contenido -->
+</body>
+</html>
+```
+- `<!DOCTYPE html>` -> Indica que es un documento HTML moderno.
+- `<html>`  -> Contenedor principal.
+- `<head>`  -> Información invisible al usuario (título, metadatos).
+- `<title>`  -> Título visible en la pestaña del navegador.
+- `<body>` -> Contenido visible de la página.
+
+---
+
+## 2. Añadiendo Contenido: Encabezados y Párrafos
+
+**Encabezados:**
+
+```
+<h1>¡Hola! Soy [Tu Nombre]</h1>
+<h2>Este es un subtítulo</h2>
+<h3>Este es un subtítulo más pequeño</h3>
+```
+
+- `<h1>` -> Título principal
+- `<h2>`  -> Secciones
+- `<h3>`  -> Subsecciones
+
+**Parrafos:**
+
+```
+<p>Esta es mi primera página web y estoy aprendiendo HTML.</p>
+<p>HTML me permite crear contenido para internet.</p>
+```
+
+---
+
+## 3. Otras Etiquetas Únicas:
+
+**Negritas y Cursivas:**
+
+```
+<p>Palabra en <strong>negrita</strong> y palabra en <em>cursiva</em>.</p>
+```
+
+**Saltos de línea**
+
+```
+<p>Primera línea<br>Segunda línea</p>
+```
+
+---
+
+## 4. Comentarios en HTML:
+
+```
+<!-- Esto es un comentario -->
+<!-- No se muestra en la página -->
+```
+Nota: Los comentarios te ayudan a dejar notas y organizar tu código.
+
+---
+
+##5. Ejercicio Práctico:
+
+Crea una página HTML que incluya:
+
+- Un `<h1>` con tu nombre.
+- Un `<h2>` con algo que te guste hacer.
+- Dos o más párrafos sobre ti.
+- Texto en `<strong>` y `<em>`.
+- Al menos dos comentarios.
